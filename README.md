@@ -59,11 +59,12 @@ Fund transfer, Bills payment, and an Expense tracker. I design the database to s
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen3.png?raw=true" alt="Image 3" width="250"/>
 </p>
 
+<br><br>
 <span style="font-size:50px;">**Kwik Delivery**</span> [Android](https://play.google.com/store/apps/details?id=com.kwik.customer)
 
 Kwik Delivery is an on-demand fulfillment platform. I helped the company implement KwikPay which was a wallet system to facilitate payment
 between merchants, kwiksters, and customers. I helped improve the app's performance and the company saw an increase in Play Store rating
 from 3.4 to 4.7 in March 2024 which was when I left the company.
 
-<img src="https://github.com/pcox3/portfolio/blob/main/kwik.png?raw=true" alt="Image 3" width="300"/>
+<img src="https://github.com/pcox3/portfolio/blob/main/kwik.png?raw=true" alt="Image 3" width="500"/>
 
