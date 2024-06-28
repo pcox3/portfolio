@@ -16,7 +16,7 @@ and I've led teams to build and ship great applications.
 
 <br>
 
-<span style="font-size:50px;">**Baxi Mobile**</span>
+<span style="font-size:50px;">**Baxi Mobile**</span> [Android](https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en)
 
 At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
 and POS app. I was responsible for implementing **Baxi Pan Africa Transfer 2.0**, a product that supports
@@ -29,14 +29,13 @@ integration on the Android and POS apps.
   <img src="https://github.com/pcox3/portfolio/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
 </p>
 
+<br><br>
 
+<span style="font-size:50px;">**FlipSeats**</span> [Android](https://flipseats.com/)
 
-<span style="font-size:50px;">**Tickermaster**</span>
-
-At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
-and POS app. I was responsible for implementing **Baxi Pan Africa Transfer 2.0**, a product that supports
-fund  transfers across different African countries. I was also responsible for implementing Smartcash withdrawal
-integration on the Android and POS apps. 
+FlipSeats is a one-stop shop for season ticket holders to easily sell their single-game tickets across
+multiple marketplaces. I worked with a team of 3, Managed by [Chris Pick](https://www.linkedin.com/in/chrispick/) 
+where I built the V1 of their Android app using Jetpack Compose.
 
 <p align="start">
   <img src="https://github.com/pcox3/portfolio/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
