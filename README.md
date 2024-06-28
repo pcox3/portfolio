@@ -14,7 +14,7 @@ and I've led teams to build and ship great applications.
 
 
 
-<span style="font-size:20px;">**Projects**</span>
+<span style="font-size:40px;">**Projects**</span>
 
 
 **Baxi Mobile**
