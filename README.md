@@ -27,7 +27,7 @@ fund  transfers across different African countries. I was also responsible for i
 integration on the Android and POS apps. 
 
 <p align="start">
-  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png" alt="Image 1" width="200"/>
-  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png" alt="Image 2" width="200"/>
-  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
 </p>
