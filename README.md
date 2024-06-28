@@ -11,6 +11,7 @@ focus on structured architectural and design patterns following coding standards
 and I've led teams to build and ship great applications. 
 
 <br>
+
 **Projects**
 
 <br>
