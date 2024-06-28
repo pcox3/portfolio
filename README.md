@@ -51,6 +51,8 @@ where I built the V1 of the FlipSeats Android app using Jetpack Compose.
 Paxen was a personal project where I used my experience in the banking industry to build a payment app that supported
 Fund transfer, Bills payment, and an Expense tracker. I design the database to suit the flexible nature of the app.
 
+<img src="https://github.com/pcox3/portfolio/blob/main/db1.jpg?raw=true" alt="Image 1" width="400"/>
+
 <p align="start">
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen1.png?raw=true" alt="Image 2" width="200"/>
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen2.png?raw=true" alt="Image 3" width="200"/>
