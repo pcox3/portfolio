@@ -1,4 +1,4 @@
-**Hi, I'm Chidi Pascal 👋**
+**Hi, I'm Chidi Pascal 👋** (PascalProgrammingX - old account)
 
 A versatile mobile engineer with over 8 years of industry experience. Proficient with various mobile 
 stacks ranging from Java, Kotlin, flutter, and Jetpack Compose. I have great expertise in bringing the simplicity of well-architected
