@@ -12,7 +12,7 @@ and I've led teams to build and ship great applications.
 
 <br>
 
-**Projects**
+<span style="font-size:100px;">**Projects:**</span>
 
 <br>
 
