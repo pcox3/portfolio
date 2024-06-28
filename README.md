@@ -1,4 +1,4 @@
-**Hi, I'm Chidi Pascal 👋** [PascalProgrammingX - old account](https://github.com/PascalProgrammingX)
+**Hi, I'm Chidi Pascal 👋**
 
 A versatile mobile engineer with over 8 years of industry experience. Proficient with various mobile 
 stacks ranging from Java, Kotlin, flutter, and Jetpack Compose. I have great expertise in bringing the simplicity of well-architected
@@ -56,7 +56,6 @@ Fund transfer, Bills payment, and an Expense tracker. I design the database to s
 <p align="start">
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen1.png?raw=true" alt="Image 2" width="300"/>
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen2.png?raw=true" alt="Image 3" width="300"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/paxen3.png?raw=true" alt="Image 3" width="250"/>
 </p>
 
 <br><be><br>
