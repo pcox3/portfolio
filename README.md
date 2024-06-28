@@ -10,13 +10,10 @@ I have a good knowledge of mobile SDKs and design guidelines owing to years of e
 focus on structured architectural and design patterns following coding standards. We've experience with Database design
 and I've led teams to build and ship great applications. 
 
-
-<br><br>
-
+<br>
 **Projects**
 
-<br><br>
-
+<br>
 
 <span style="font-size:50px;">**Baxi Mobile**</span>
 
