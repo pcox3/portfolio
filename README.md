@@ -56,6 +56,6 @@ Fund transfer, Bills payment, and an Expense tracker. I design the database to s
 <p align="start">
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen1.png?raw=true" alt="Image 2" width="300"/>
   <img src="https://github.com/pcox3/portfolio/blob/main/paxen2.png?raw=true" alt="Image 3" width="300"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/paxen3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/paxen3.png?raw=true" alt="Image 3" width="250"/>
 </p>
 
