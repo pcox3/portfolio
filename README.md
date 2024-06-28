@@ -65,5 +65,5 @@ Kwik Delivery is an on-demand fulfillment platform. I helped the company impleme
 between merchants, kwiksters, and customers. I helped improve the app's performance and the company saw an increase in Play Store rating
 from 3.4 to 4.7 in March 2024 which was when I left the company.
 
-<img src="https://github.com/pcox3/portfolio/blob/main/paxen3.png?raw=true" alt="Image 3" width="250"/>
+<img src="https://github.com/pcox3/portfolio/blob/main/kwik.png?raw=true" alt="Image 3" width="300"/>
 
