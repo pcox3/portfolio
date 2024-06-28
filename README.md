@@ -14,7 +14,20 @@ and I've led teams to build and ship great applications.
 
 
 
-<span style="font-size:40px;">**Projects**</span>
+**Projects**
+
+
 
 
 **Baxi Mobile**
+
+At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
+and POS app. I was responsible for implementing **Baxi Pan Africa Transfer 2.0**, a product that supports
+fund  transfers across different African countries. I was also responsible for implementing Smartcash withdrawal
+integration on the Android and POS apps. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png" alt="Image 1" width="200"/>
+  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png" alt="Image 2" width="200"/>
+  <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png" alt="Image 3" width="200"/>
+</p>
