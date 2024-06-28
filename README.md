@@ -12,12 +12,26 @@ and I've led teams to build and ship great applications.
 
 <br>
 
-<span style="font-size:100px;">**Projects:**</span>
+**Projects:**
 
 <br>
 
 <span style="font-size:50px;">**Baxi Mobile**</span>
 
+At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
+and POS app. I was responsible for implementing **Baxi Pan Africa Transfer 2.0**, a product that supports
+fund  transfers across different African countries. I was also responsible for implementing Smartcash withdrawal
+integration on the Android and POS apps. 
+
+<p align="start">
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
+</p>
+
+
+
+<span style="font-size:50px;">**Tickermaster**</span>
 
 At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
 and POS app. I was responsible for implementing **Baxi Pan Africa Transfer 2.0**, a product that supports
