@@ -67,4 +67,6 @@ between merchants, kwiksters, and customers. I helped improve the app's performa
 from 3.4 to 4.7 in March 2024 which was when I left the company.
 
 <img src="https://github.com/pcox3/portfolio/blob/main/kwik.png?raw=true" alt="Image 3" width="650"/>
+<img src="https://github.com/pcox3/portfolio/blob/main/kwik1.png?raw=true" alt="Image 3" width="300"/>
+
 
