@@ -31,14 +31,15 @@ integration on the Android and POS apps.
 
 <br><br>
 
-<span style="font-size:50px;">**FlipSeats**</span> [Android](https://flipseats.com/)
+<span style="font-size:50px;">**FlipSeats**</span> [Website](https://flipseats.com/)
 
 FlipSeats is a one-stop shop for season ticket holders to easily sell their single-game tickets across
 multiple marketplaces. I worked with a team of 3, Managed by [Chris Pick](https://www.linkedin.com/in/chrispick/) 
 where I built the V1 of their Android app using Jetpack Compose.
 
 <p align="start">
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi2.png?raw=true" alt="Image 2" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/flip1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/flip2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/flip3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/flip4.png?raw=true" alt="Image 3" width="200"/>
 </p>
