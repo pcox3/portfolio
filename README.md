@@ -18,7 +18,7 @@ and I've led teams to build and ship great applications.
 <br><br><br>
 
 
-<span style="font-size:30px;">**Baxi Mobile**</span>
+<span style="font-size:50px;">**Baxi Mobile**</span>
 
 
 At Baxi, I worked in a team of over 10 where I was responsible for managing and maintaining the Baxi Mobile 
