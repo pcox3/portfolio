@@ -11,11 +11,11 @@ focus on structured architectural and design patterns following coding standards
 and I've led teams to build and ship great applications. 
 
 
-<br><br><br>
+<br><br>
 
 **Projects**
 
-<br><br><br>
+<br><br>
 
 
 <span style="font-size:50px;">**Baxi Mobile**</span>
