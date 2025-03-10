@@ -46,4 +46,15 @@ where I built the V1 of the FlipSeats Android app using Jetpack Compose.
 
 <br><br>
 
+At Kwik, i worked on a dynamic implementation of MTN Mono as an alternative funding option for the Kwik
+customers which caused a spike in the wallet funding rate by 10%. Implemented KwikPay(Kwik’s wallet system) which is used by over 10k customers.
+Increased app rating by from 3.6 to 4.6 stars by analyzing app reviews and implementing in-app rating.
+
+<p align="start">
+  <img src="https://github.com/pcox3/portfolio/blob/main/kwik1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/kwik2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/portfolio/blob/main/kwik3.png?raw=true" alt="Image 3" width="200"/>
+</p>
+
+<br><br>
 
